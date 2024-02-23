@@ -1,10 +1,12 @@
 # MLxChE: Intro to Machine Learning for Chemical Engineers
 
-Welcome to the GitHub repository for my courses: ChE 197 and ChE 297, Intro to ML for Chemical Engineers. This repository contains Python codes (Jupyter notebooks) and datasets used in class. ChE 197 is an elective course for undergraduates and ChE 297 is for graduate students at the College of Engineering, University of the Philippines, Diliman. These courses aim to introduce the field of machine learning (ML) to chemical engineers, including the mathematical details, code implementations, and chemical engineering applications of basic supervised and unsupervised ML methods.
+Welcome to the GitHub repository for my courses: ChE 197 and ChE 297, Intro to ML for Chemical Engineers. This repository contains Python codes (Jupyter notebooks), case studies, and datasets used in class. ChE 197 is an elective course for undergraduates and ChE 297 is for graduate students at the College of Engineering, University of the Philippines, Diliman. These courses aim to introduce the field of machine learning (ML) to chemical engineers, including the mathematical details, code implementations, and chemical engineering applications of basic supervised and unsupervised ML methods.
 
 ## Usage
 The repository is organized into folders based on the weekly topics covered in the class, as follows (under construction):
-- [Linear and Logistic Regression](/Week_1)
+- [Week 0. Introduction](/Week_0)
+- [Week 1. Linear and Logistic Regression](/Week_1)
+- [Week 2. SVMs and Kernel Methods](/Week_2)
 
 
 ## Contributing
