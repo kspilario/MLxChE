@@ -7,6 +7,9 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Week 0. Introduction](/Week_0)
 - [Week 1. Linear and Logistic Regression](/Week_1)
 - [Week 2. SVMs and Kernel Methods](/Week_2)
+- [Week 3. Neural Networks](/Week_3)
+- [Week 4. Trees and Ensemble Learning](/Week_4)
+- [Week 5. Time Series Analysis](/Week_5)
 
 
 ## Contributing
