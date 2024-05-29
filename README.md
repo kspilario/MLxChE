@@ -5,13 +5,13 @@ Welcome to the GitHub repository for my courses: ChE 197 and ChE 297, Intro to M
 ## Usage
 The repository is organized into folders based on the weekly topics covered in the class, as follows:
 
-- [Week 1. Introduction](/Week_1_Introduction)
-- [Week 2. Exploratory Data Analysis](/Week_2_Exploratory_Data_Analysis/)
-- [Week 3. Linear and Logistic Regression](/Week_3_Linear_and_Logistic_Regression/)
-- [Week 4. SVMs and Kernel Methods](/Week_4_SVMs_and_Kernel_Methods/)
-- [Week 5. Cross-validation and Hyper-parameter Tuning](/Week_5_Cross-validation_and_Model_Tuning/)
-- [Week 6. Gaussian Processes and Bayesian Optimization](/Week_6_Gaussian_Processes_and_BayesOpt/)
-- [Week 7. Neural Networks and Intro to Deep Learning](/Week_7_Neural_Nets/)
+- [Week 1. Introduction](/Week-1-Intro)
+- [Week 2. Exploratory Data Analysis](/Week-2-EDA/)
+- [Week 3. Linear and Logistic Regression](/Week-3-Linear-Models/)
+- [Week 4. SVMs and Kernel Methods](/Week-4-Kernel-Methods/)
+- [Week 5. Cross-validation and Hyper-parameter Tuning](/Week-5-Validation/)
+- [Week 6. Gaussian Processes and Bayesian Optimization](/Week-6-GP-BayesOpt/)
+- [Week 7. Neural Networks and Intro to Deep Learning](/Week-7-Neural-Nets/)
 - [Week 8. Trees, Weak Learners, and Ensemble Learning](/Week_8_Trees_and_Ensemble_Learning/)
 - [Week 9. Linear Dimensionality Reduction](/Week_9_Linear_DimReduce_and_LDA/)
 - [Week 10. Nonlinear Dimensionality Reduction](/Week_10_Nonlinear_DimReduce/)
