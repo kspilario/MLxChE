@@ -5,20 +5,18 @@ Welcome to the GitHub repository for my courses: ChE 197 and ChE 297, Intro to M
 ## Usage
 The repository is organized into folders based on the weekly topics covered in the class, as follows:
 
-- [Week 0. Introduction](/Week_0)
-
-Supervised Learning:
-- [Week 1. Linear and Logistic Regression](/Week_1)
-- [Week 2. SVMs and Kernel Methods](/Week_2)
-- [Week 3. Neural Networks](/Week_3)
-- [Week 4. Trees and Ensemble Learning](/Week_4)
-- [Week 5. Time Series Analysis](/Week_5)
-
-Unsupervised Learning:
-- [Week 6. Dimensionality Reduction](/Week_6)
-- [Week 7. Clustering, Density Estimation, Anomaly Detection](/Week_7)
-
-- [Week 8. AutoML and Explainability Methods](/Week_8)
+- [Week 1. Introduction](/Week_1_Introduction)
+- [Week 2. Exploratory Data Analysis](/Week_2_Exploratory_Data_Analysis/)
+- [Week 3. Linear and Logistic Regression](/Week_3_Linear_and_Logistic_Regression/)
+- [Week 4. SVMs and Kernel Methods](/Week_4_SVMs_and_Kernel_Methods/)
+- [Week 5. Cross-validation and Hyper-parameter Tuning](/Week_5_Cross-validation_and_Model_Tuning/)
+- [Week 6. Gaussian Processes and Bayesian Optimization](/Week_6_Gaussian_Processes_and_BayesOpt/)
+- [Week 7. Neural Networks and Intro to Deep Learning](/Week_7_Neural_Nets/)
+- [Week 8. Trees, Weak Learners, and Ensemble Learning](/Week_8_Trees_and_Ensemble_Learning/)
+- [Week 9. Linear Dimensionality Reduction](/Week_9_Linear_DimReduce_and_LDA/)
+- [Week 10. Nonlinear Dimensionality Reduction](/Week_10_Nonlinear_DimReduce/)
+- [Week 11. Clustering, Density Estimation, Anomaly Detection](/Week_11_Clustering_DensityEst_Anomaly/)
+- [Week 12. AutoML and Explainability Methods](/Week_12_AutoML_and_ExplainableAI/)
 
 ## Contributing
 If you find any issues or have any suggestions for improvement, feel free to contact me via kspilario@up.edu.ph. If any codes are not working on your terminal, let me know. :)
