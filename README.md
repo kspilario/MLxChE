@@ -12,7 +12,7 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Week 5. Cross-validation and Hyper-parameter Tuning](/Week-5-Validation/)
 - [Week 6. Gaussian Processes and Bayesian Optimization](/Week-6-GP-BayesOpt/)
 - [Week 7. Neural Networks and Intro to Deep Learning](/Week-7-Neural-Nets/)
-- [Week 8. Trees, Weak Learners, and Ensemble Learning](/Week_8_Trees_and_Ensemble_Learning/)
+- [Week 8. Trees, Weak Learners, and Ensemble Learning](/Week-8-Ensembles/)
 - [Week 9. Linear Dimensionality Reduction](/Week_9_Linear_DimReduce_and_LDA/)
 - [Week 10. Nonlinear Dimensionality Reduction](/Week_10_Nonlinear_DimReduce/)
 - [Week 11. Clustering, Density Estimation, Anomaly Detection](/Week_11_Clustering_DensityEst_Anomaly/)
