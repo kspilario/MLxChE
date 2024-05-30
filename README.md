@@ -13,10 +13,10 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Week 6. Gaussian Processes and Bayesian Optimization](/Week-6-GP-BayesOpt/)
 - [Week 7. Neural Networks and Intro to Deep Learning](/Week-7-Neural-Nets/)
 - [Week 8. Trees, Weak Learners, and Ensemble Learning](/Week-8-Ensembles/)
-- [Week 9. Linear Dimensionality Reduction](/Week_9_Linear_DimReduce_and_LDA/)
-- [Week 10. Nonlinear Dimensionality Reduction](/Week_10_Nonlinear_DimReduce/)
-- [Week 11. Clustering, Density Estimation, Anomaly Detection](/Week_11_Clustering_DensityEst_Anomaly/)
-- [Week 12. AutoML and Explainability Methods](/Week_12_AutoML_and_ExplainableAI/)
+- [Week 9. Linear Dimensionality Reduction](/Week-9-LinearDR/)
+- [Week 10. Nonlinear Dimensionality Reduction](/Week-10-NonlinearDR/)
+- [Week 11. Clustering, Density Estimation, Anomaly Detection](/Week-11-Clustering/)
+- [Week 12. AutoML and Explainability Methods](/Week-12-AutoML-XAI/)
 
 ## Contributing
 If you find any issues or have any suggestions for improvement, feel free to contact me via kspilario@up.edu.ph. If any codes are not working on your terminal, let me know. :)
