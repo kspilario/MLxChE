@@ -5,9 +5,9 @@ Welcome to the GitHub repository for my courses: ChE 197 and ChE 297, Intro to M
 ## Usage
 The repository is organized into folders based on the weekly topics covered in the class, as follows:
 
-- [Week 1. Introduction](/Week-1-Intro)
-- [Week 2. Exploratory Data Analysis](/Week-2-EDA/)
-- [Week 3. Linear and Logistic Regression](/Week-3-Linear-Models/)
+- [Week 1. Introduction](/Week-01-Intro)
+- [Week 2. Exploratory Data Analysis](/Week-02-EDA/)
+- [Week 3. Linear and Logistic Regression](/Week-03-Linear-Models/)
 - [Week 4. SVMs and Kernel Methods](/Week-4-Kernel-Methods/)
 - [Week 5. Cross-validation and Hyper-parameter Tuning](/Week-5-Validation/)
 - [Week 6. Gaussian Processes and Bayesian Optimization](/Week-6-GP-BayesOpt/)
