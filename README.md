@@ -13,7 +13,7 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Week 6. Gaussian Processes and Bayesian Optimization](/Week-6-GP-BayesOpt/)
 - [Week 7. Neural Networks and Intro to Deep Learning](/Week-7-Neural-Nets/)
 - [Week 8. Trees, Weak Learners, and Ensemble Learning](/Week-8-Ensembles/)
-- [Week 9. Linear Dimensionality Reduction](/Week-9-LinearDR/)
+- [Week 9. Linear Dimensionality Reduction](/Week-09-LinearDR/)
 - [Week 10. Nonlinear Dimensionality Reduction](/Week-10-NonlinearDR/)
 - [Week 11. Clustering, Density Estimation, Anomaly Detection](/Week-11-Clustering/)
 - [Week 12. AutoML and Explainability Methods](/Week-12-AutoML-XAI/)
